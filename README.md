@@ -1,6 +1,6 @@
 # Readme
 ## Why I start this project
-I'm taking the graph database recently, and my fellows offen complie that it's quite hard to learn from graphacademy due to thier poor English (no offence), thus I think there might be something I can do for this kind of people.~~more likey they are too noisy~~  
+I'm taking the graph database recently, and my fellows offen complie that it's quite hard to learn from graphacademy due to thier poor English (no offence), thus I think there might be something I can do for this kind of people.
 ## Wrong Translation?
 Create an issue please.
 ## 初衷
